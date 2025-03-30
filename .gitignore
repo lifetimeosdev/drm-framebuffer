@@ -1,4 +1,4 @@
-drm-framebuffer
+drm_framebuffer
 *.o
 tags
 *.taghl
